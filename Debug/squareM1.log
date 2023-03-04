@@ -1,0 +1,27 @@
+﻿Build started 2016/7/7 15:00:11.
+     1>Project "F:\C++\俄罗斯方块MFC实现\源码\squareM1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\squareM1.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt DlgGameCode.cpp
+         DlgGameCode.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /l"0x0804" /nologo /fo".\Debug\squareM1.res" squareM1.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\squareM1.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:".\Debug\squareM1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\squareM1.lib" /MACHINE:X86 /SAFESEH .\Debug\squareM1.res
+         .\Debug\DlgGameCode.obj
+         .\Debug\DlgHelp.obj
+         .\Debug\DlgSet.obj
+         .\Debug\filereport.obj
+         .\Debug\gamebox.obj
+         .\Debug\mybitmap.obj
+         .\Debug\squareM1.obj
+         .\Debug\squareM1Dlg.obj
+         .\Debug\StdAfx.obj
+     1>DlgGameCode.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+         squareM1.vcxproj -> F:\C++\俄罗斯方块MFC实现\源码\.\Debug\squareM1.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe /nologo /o".\Debug\squareM1.bsc" .\Debug\DlgGameCode.sbr .\Debug\DlgHelp.sbr .\Debug\DlgSet.sbr .\Debug\filereport.sbr .\Debug\gamebox.sbr .\Debug\mybitmap.sbr .\Debug\squareM1.sbr .\Debug\squareM1Dlg.sbr .\Debug\StdAfx.sbr
+     1>Done Building Project "F:\C++\俄罗斯方块MFC实现\源码\squareM1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.40

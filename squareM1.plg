@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: squareM1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP26.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/squareM1.pdb" /debug /machine:I386 /out:"Debug/squareM1.exe" /pdbtype:sept 
+.\Debug\DlgGameCode.obj
+.\Debug\DlgHelp.obj
+.\Debug\DlgSet.obj
+.\Debug\filereport.obj
+.\Debug\gamebox.obj
+.\Debug\mybitmap.obj
+.\Debug\squareM1.obj
+.\Debug\squareM1Dlg.obj
+.\Debug\StdAfx.obj
+.\Debug\squareM1.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP26.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+squareM1.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
